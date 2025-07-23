@@ -73,7 +73,7 @@ Here's the breakdown of the top data analyst jobs :
 - **Job Title Variety:** There's a high diversity specializations within data analytics. in job titles, from Data Analyst to Director of Analytics, reflecting varied roles andand specialization within data analytics
 
 ![Top Paying Roles](Assets/1_Top_paying_roles.png) 
-*Bar graph visualizing the the salary of top 10 salaries for data analysts.*
+*Bar graph visualizing the the salary of top 10 salaries for data analysts.* 
 
 ### 2. Skills for Top Paying Jobs
  To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
