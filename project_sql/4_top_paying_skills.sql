@@ -12,7 +12,7 @@ WHERE
     and job_work_from_home= true
 GROUP BY   skills
     order BY avg_salary desc
-    limit 30
+    limit 10
 
 
 /*

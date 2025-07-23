@@ -43,4 +43,4 @@ Inner JOIN avg_salary on skills_demand.skill_id=avg_salary.skill_id
 ORDER BY
     avg_salary,
     demand_count DESC
-limit 30
+limit 15
