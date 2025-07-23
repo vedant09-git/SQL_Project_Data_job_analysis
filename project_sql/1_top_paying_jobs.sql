@@ -12,12 +12,9 @@ LEFT JOIN company_dim as cd
 on jpf.company_id=cd.company_id
 WHERE 
     job_title_short='Data Analyst' and 
-    job_location='India' and 
+    job_location='Anywhere' and 
     salary_year_avg IS NOT NULL
 ORDER BY 
     salary_year_avg DESC
 limit 10;
 
-
-SELECT  *
-from skills_dim
